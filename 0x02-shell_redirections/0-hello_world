@@ -1,3 +1,8 @@
+<<<<<<< HEAD
  #!/bin/bash
 i echo "Hello, World"
 
+=======
+#!/bin/bash
+echo "Hello, World"
+>>>>>>> 1942b80bd74e00f3b15751a2cfab14e831d7c4bf
