@@ -1,2 +1,2 @@
 #!/bin/bash
-la p-t | head
+ls -t | head
